@@ -1,0 +1,23 @@
+{
+  "name": "dropdownmenu",
+  "version": "1.0.0",
+  "description": "this is a simple drop down menu",
+  "main": "drop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikhlefdev/dropdownmenu.git"
+  },
+  "keywords": [
+    "dropdown",
+    "menu"
+  ],
+  "author": "ikhlef meriem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikhlefdev/dropdownmenu/issues"
+  },
+  "homepage": "https://github.com/ikhlefdev/dropdownmenu#readme"
+}
