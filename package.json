@@ -1,7 +1,7 @@
 {
-  "name": "dropdownmenu",
+  "name": "dropdownmenuikhlef",
   "version": "1.0.0",
-  "description": "this is a simple drop down menu",
+  "description": "this is a drop down menu",
   "main": "drop.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/ikhlefdev/dropdownmenu/issues"
   },
-  "homepage": "https://github.com/ikhlefdev/dropdownmenu#readme",
-  "dependencies": {
-    "dropdownmenu": "github:ikhlefdev/dropdownmenu"
-  }
+  "homepage": "https://github.com/ikhlefdev/dropdownmenu#readme"
 }
