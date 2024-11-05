@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ikhlefdev/dropdownmenu/issues"
   },
-  "homepage": "https://github.com/ikhlefdev/dropdownmenu#readme"
+  "homepage": "https://github.com/ikhlefdev/dropdownmenu#readme",
+  "dependencies": {
+    "dropdownmenu": "github:ikhlefdev/dropdownmenu"
+  }
 }
